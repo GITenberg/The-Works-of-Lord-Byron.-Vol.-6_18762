@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2902
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18762#The-Works-of-Lord-Byron.-Vol.-6
 gutenberg_issued: '2006-07-06'
 gutenberg_type: Text
 identifiers:
