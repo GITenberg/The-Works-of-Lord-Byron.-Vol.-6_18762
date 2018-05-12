@@ -1,0 +1,37 @@
+_repo: The-Works-of-Lord-Byron.-Vol.-6_18762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noel Byron, Baron
+    - Byron, George Gordon Noël Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+  editor:
+    agent_name: Coleridge, Ernest Hartley
+    birthdate: 1846
+    deathdate: 1920
+    gutenberg_agent_id: '2902'
+    url: http://www.gutenberg.org/2009/agents/2902
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
+description: ''
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: The Works of Lord Byron. Vol. 6
+url: http://www.gutenberg.org/ebooks/18762
